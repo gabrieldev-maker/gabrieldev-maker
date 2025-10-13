@@ -23,15 +23,12 @@ Trago um pouco de experiência em diversas tecnologias. Aqui estão algumas das 
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
 </div>
 
 <p align="center">
