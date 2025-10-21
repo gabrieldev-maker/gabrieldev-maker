@@ -2,7 +2,7 @@
 <p align="center">
 
 ### 🧑‍💻 | **Sobre mim**  
-Olá, sou o **Gabriel**, dev junior em formação cursando Sistemas no ensino médio. Com uma abordagem prática e curiosa, compartilho conhecimentos e aprendizados que vou adiquirindo ao decorrer do meu curso . Explore meus projetos e me ajude a evoluir!
+Olá, sou o **Gabriel**, dev junior em formação cursando Sistemas no ensino médio. Com uma abordagem prática e curiosa, compartilho conhecimentos e aprendizados que vou adquirindo ao decorrer do meu curso . Explore meus projetos e me ajude a evoluir!
 
 <!--🐱CAT-->
 <p align="center">
