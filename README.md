@@ -4,11 +4,6 @@
 ### 🧑‍💻 | **Sobre mim**  
 Olá, sou o **Gabriel**, dev junior em formação cursando Sistemas no ensino médio. Com uma abordagem prática e curiosa, compartilho conhecimentos e aprendizados que vou adquirindo ao decorrer do meu curso . Explore meus projetos e me ajude a evoluir!
 
-<!--🐱CAT-->
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-</p>
-
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
