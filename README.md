@@ -113,11 +113,34 @@ Trago um pouco de experiência em diversas tecnologias. Aqui estão algumas das 
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 <br>
+<br>
+
+
 
 📝 **Gostou dos meus projetos?**  
 Entre em contato ou me mande sugestões de melhorias e dicas de evoluçâo! 🚀
 
 ---
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=gabrieldev-maker&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldev-maker&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+  <br>
+  <br>
+
+</p>
+
