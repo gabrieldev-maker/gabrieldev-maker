@@ -26,9 +26,7 @@ Trago um pouco de experiência em diversas tecnologias. Aqui estão algumas das 
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
 </div>
 
 <p align="center">
@@ -38,10 +36,7 @@ Trago um pouco de experiência em diversas tecnologias. Aqui estão algumas das 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
-
-
-<br><br>
----
+<br>
 
 📝 **Gostou dos meus projetos?**  
 Entre em contato ou me mande sugestões de melhorias e dicas de evoluçâo! 🚀
