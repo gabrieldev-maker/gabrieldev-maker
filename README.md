@@ -1,6 +1,6 @@
 # 🧑‍💻 Gabriel Oliveira
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor BackEnd`**
 
 ### 🧑‍💻 | **Sobre mim**  
 Olá, sou o **Gabriel**, dev junior em formação cursando Sistemas no ensino médio na EEEP Alfredo Nunes de Melo. Com uma abordagem prática e curiosa, compartilho conhecimentos e aprendizados que vou adquirindo ao decorrer do meu curso . Explore meus projetos e me ajude a evoluir!
